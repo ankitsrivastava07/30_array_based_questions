@@ -1,7 +1,5 @@
 package questions;
 
-import java.util.Arrays;
-
 public class RemoveDuplicate {
 
     public static int removeDuplicateFromArray(int[] arr) {
